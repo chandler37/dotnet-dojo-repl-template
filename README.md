@@ -11,4 +11,4 @@ Feel free to fork and create your own project!
 
 ## Credits
 
-The core of it is fully based on [this Repl](https://repl.it/@AMcC/dotnet5#README.md)
+The core of it is heavily based on [this Repl](https://repl.it/@AMcC/dotnet5#README.md)
